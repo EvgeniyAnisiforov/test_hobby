@@ -1,0 +1,12 @@
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+D:\visual Studio\проект\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\bin\Debug\MyClassLibrary1.dll
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\bin\Debug\MyClassLibrary1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.dll
+C:\Users\user\Desktop\WindowsFormsApp1\MyClassLibrary1\obj\Debug\MyClassLibrary1.pdb
